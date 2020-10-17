@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBOapi", "MBOapi\MBOapi.csproj", "{941BCEE5-F7B9-4795-B741-828364A2004B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941BCEE5-F7B9-4795-B741-828364A2004B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941BCEE5-F7B9-4795-B741-828364A2004B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941BCEE5-F7B9-4795-B741-828364A2004B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941BCEE5-F7B9-4795-B741-828364A2004B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08720F8E-A334-42F5-8CD3-FDB58F0E076F}
+	EndGlobalSection
+EndGlobal
